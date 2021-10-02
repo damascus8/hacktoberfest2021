@@ -9,6 +9,7 @@
 |   Yunxin Gan   |   [SamGanYX](https://github.com/SamGanYX)    |   7    |
 | Muhammad Sameer Farooq | [msameerfarooq](https://github.com/msameerfarooq)		|	8	|
 | Shayan Debroy | [shayan-cyber](https://github.com/shayan-cyber)		|	16	|
+| Siddharth Shrivatav | [damascus8](https://github.com/damascus8)		|	1	|
 
 
 
